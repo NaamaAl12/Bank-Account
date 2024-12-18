@@ -1,7 +1,3 @@
-// Naama Al-Musawi, CS& 141
-// Final Assignment: Classes and Objects
-
-
 /**
  * Represents a bank account with account number, account holder name, balance, and interest rate.
  */
