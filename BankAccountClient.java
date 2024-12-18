@@ -1,6 +1,3 @@
-// Naama Al-Musawi, CS& 141
-// Final Assignment: Classes and Objects
-
 import java.util.*;
 
 public class BankAccountClient {
