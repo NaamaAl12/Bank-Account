@@ -1,0 +1,12 @@
+1. Object-Oriented Design
+- The program demonstrates encapsulation, abstraction, and modular design through:
+    - The separation of BankAccount (data model) and BankAccountClient (UI/logic).
+
+2. Error Handling
+- Includes input validation for:
+    - Numeric inputs (e.g., account balance, interest rate).
+    - Valid account names (letters, spaces, hyphens, and dots).
+    - Prevents overdrafts or duplicate account numbers.
+
+3. Interactive Console Application
+- Uses a menu-driven approach for seamless user interaction
