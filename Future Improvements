@@ -6,3 +6,5 @@
 2. Add a graphical user interface (GUI) for a more user-friendly experience.
 
 3. Integrate database support to persist account data across sessions.
+
+4. Improving user validation
